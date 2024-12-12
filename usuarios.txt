@@ -1,0 +1,1 @@
+[{"nome": "kevin", "idade": "24", "cpf": "124.713.654-00", "email": "kevin@gmail", "senha": "123"}, {"nome": "kahe", "idade": 18, "cpf": "124.654.202-60", "email": "kahe@12", "senha": "123"}, {"nome": "kahe", "idade": 18, "cpf": "124.745.354-99", "email": "", "senha": "123"}, {"nome": "kevinn", "idade": 25, "cpf": "124.713.654-88", "email": "kevinn@", "senha": "123"}]
